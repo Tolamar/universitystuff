@@ -23,6 +23,4 @@ public class Polygon<N extends Number,P extends Point2D<N>> {
 		list.remove(index);
 	}
 
-	/*Another comment*/
-	
 }

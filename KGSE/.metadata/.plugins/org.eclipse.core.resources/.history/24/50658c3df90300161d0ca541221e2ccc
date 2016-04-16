@@ -23,5 +23,5 @@ public class Polygon<N extends Number,P extends Point2D<N>> {
 	}
 
 	/*Another comment*/
-
+	
 }
